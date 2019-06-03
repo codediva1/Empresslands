@@ -1,0 +1,284 @@
+.logo{
+	width: 35%;
+	height:70px;
+	float: left;
+	border:;
+	background-color: #262392;
+}
+.logo img{
+	height: 70px;
+	width: 270px;
+	margin-left: 30px;
+}
+.nav{
+	width: 64.5%;
+	height: 70px;
+	float: left;
+	background-color: #262392;
+}
+.navbar{
+	background: #262392;
+	margin-bottom: 0px;
+	width: 100.5%;
+}
+.nav li{
+	display: inline-flex;
+	padding: 6px;
+	margin: 10px;
+	margin-bottom: 0px;
+	color: white;
+	font-family: Arial;
+	font-size: 13px;
+	font-weight: 580;
+}
+.nav li a{
+	text-decoration: none;
+	color: white;
+}
+.nav .nav-button{
+	border: 1px solid white;
+	padding: 10px 30px;
+	border-radius: 25px;
+}
+.heading{
+	width: 99%;
+	margin-top: 0px;
+	height: 100px;
+	
+}
+.heading li{
+	display: inline-block;
+	padding-right: 0px;
+	
+	font-size: 13px;
+
+	padding-left: 0px;
+	padding-top: 0px;
+	background: #f9f0f0;
+	height: 23px;
+}
+.heading li select{
+	width: 222px;
+	height: 30px;
+	font-family: arial;
+	font-size: 12px;
+	line-height: 1;
+	padding: 0px;
+	padding-left: 5px;
+}
+.heading .dropdown li select{
+	background-color: white;
+	font-weight: bold;
+}
+.heading li img{
+	padding: 5px 34px;
+	height: 20px;
+	background-color: black;
+	margin-top: 10px 0px;
+	
+}
+.dropdown{
+	width: 92%;
+	float: left;
+}
+.icon{
+	width: 8%;
+	float: left;
+
+}
+.banner{
+	background-size: cover;
+	background-position: center;
+	background-image: url("properties.jpg");
+	height: 200%;
+	padding: 90px 50px;
+	background-position-y:-12em;
+}
+.banner h2{
+	color: white;
+	font-family: Arial;
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+}
+.small-icons{
+	padding: 20px;
+}
+.small-icons li{
+	display: inline-grid;
+	position: center;
+	color: #262392;
+	font-family: calibri;
+	font-size: 14px;
+	padding: 5px;
+}
+.small-icons img{
+	
+	height: 40px;
+	width: 40px;
+	border-radius: 50px;
+	margin-bottom: 3px;
+
+}
+.small-icons {
+	
+}
+.trending{
+	padding-top: 20px;
+	background-color: #c4ebc6;
+	height: 500px;
+}
+.trending h2{
+	text-align: center;
+	font-family: Arial;
+	color: #262392;
+}
+.trending li{
+	display: inline-block;
+	padding: 10px;
+}
+.trending li img{
+	width: 240px;
+	height: 300px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.trending .slider img{
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.trending a{
+	border: none;
+	padding: 10px 50px;
+	border-radius: 25px;
+	position: center;
+	color: white;
+	background-color: #262392;
+	text-decoration: none;
+	font-family: century gothic;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 150px;
+}
+.recent{
+	padding-top: 20px;
+	background-color: #c4ebc6;
+	height: 520px;
+}
+.recent h2{
+	text-align: center;
+	font-family: arial;
+	color: #262392;
+}
+.recent li{
+	display: inline-block;
+	padding: 10px;
+}
+.recent li img{
+	width: 250px;
+	height: 300px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.recent .slider img{
+	width: 300px;
+	height: 300px;
+	display: inline-block;
+	margin-bottom: 50px;
+}
+.recent a{
+	border: none;
+	padding: 10px 50px;
+	border-radius: 25px;
+	position: center;
+	color: white;
+	background-color: #262392;
+	text-decoration: none;
+	font-family: century gothic;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 150px;
+}
+.bottom{
+	background-color: #262392;
+	height: 660px;
+}
+.bottom li{
+	display: inline-block;
+	color: white;
+	padding: 20px;
+	padding-right: 60px;
+	font-family: arial;
+	font-size: 15px;
+	font-weight: ;
+}
+.bottom form{
+	padding-left: 50px;
+	padding-right: 50px;
+}
+.bottom input[placeholder][type=text]{
+	width: 270px;
+	padding: 10px;
+	border-radius: 7px;
+	margin: 7px;
+	font-family: Arial;
+	font-size: 14px;
+	color: grey;
+	border: none;
+}
+.bottom a{
+	border: 1px solid white;
+	padding: 10px 40px;
+	border-radius: 25px;
+	position: center;
+	color: white;
+	background-color: #262392;
+	text-decoration: none;
+	font-family: arial;
+	margin-bottom: 50px;
+}
+.bottom .link{
+	border: none;
+	padding: 0px;
+}
+.bottom h4{
+	color: white;
+	font-family: arial;
+	font-weight: lighter;
+	margin-top: 10px;
+	text-align: center;
+	font-size: 16px;
+	margin-bottom: 40px;
+}
+.bottom h3{
+	color: white;
+	font-family: arial;
+	font-weight: 700px;
+	margin-top: 60px;
+	text-align: center;
+	font-size:28px;
+	margin-bottom: 0px;
+}
+
+.box input{
+	padding: 10px;
+	margin: 10px;
+}
+.footer{
+	background-color: #262392;
+	color: white;
+	text-align: center;
+	margin: 0px;
+	padding-top:20px; 
+	height:30px;
+}
+.foot{
+	text-align: center;
+	font-family: arial;
+	color: white;
+	font-size: 14px;
+	font-weight: lighter;
+	margin-top: 3px;
+}
